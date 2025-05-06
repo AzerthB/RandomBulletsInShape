@@ -9,3 +9,6 @@ There are two options to run this applet;
 
 # Feature Requests
 Feature &amp; requests are open! Don't hesitate to ask if you want any modifications or new features.
+
+# Credits
+credit to https://github.com/feeley/codeboot for the python-to-javascript environment used in this app
